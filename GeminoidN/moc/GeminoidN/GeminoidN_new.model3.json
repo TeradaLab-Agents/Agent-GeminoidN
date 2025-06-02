@@ -1,0 +1,196 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "GeminoidN_new.moc3",
+		"Textures": [
+			"GeminoidN_new.8192/texture_00.png"
+		],
+		"Physics": "GeminoidN_new.physics3.json",
+		"DisplayInfo": "GeminoidN_new.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "default",
+				"File": "../../motion/表情/Joy/Joy_01.exp3.json"
+			},
+			{
+				"Name": "Anger_01",
+				"File": "../../motion/表情/Anger/Anger_01.exp3.json"
+			},
+			{
+				"Name": "Anger_02",
+				"File": "../../motion/表情/Anger/Anger_02.exp3.json"
+			},
+			{
+				"Name": "Anger_03",
+				"File": "../../motion/表情/Anger/Anger_03.exp3.json"
+			},
+			{
+				"Name": "Anger_04",
+				"File": "../../motion/表情/Anger/Anger_04.exp3.json"
+			},
+			{
+				"Name": "Anger_05",
+				"File": "../../motion/表情/Anger/Anger_05.exp3.json"
+			},
+			{
+				"Name": "Anger_06",
+				"File": "../../motion/表情/Anger/Anger_06.exp3.json"
+			},
+			{
+				"Name": "Anger_07",
+				"File": "../../motion/表情/Anger/Anger_07.exp3.json"
+			},
+			{
+				"Name": "Anger_08",
+				"File": "../../motion/表情/Anger/Anger_08.exp3.json"
+			},
+			{
+				"Name": "Anger_09",
+				"File": "../../motion/表情/Anger/Anger_09.exp3.json"
+			},
+			{
+				"Name": "Anger_10",
+				"File": "../../motion/表情/Anger/Anger_10.exp3.json"
+			},
+			{
+				"Name": "Regret_01",
+				"File": "../../motion/表情/Regret/Regret_01.exp3.json"
+			},
+			{
+				"Name": "Regret_02",
+				"File": "../../motion/表情/Regret/Regret_02.exp3.json"
+			},
+			{
+				"Name": "Regret_03",
+				"File": "../../motion/表情/Regret/Regret_03.exp3.json"
+			},
+			{
+				"Name": "Regret_04",
+				"File": "../../motion/表情/Regret/Regret_04.exp3.json"
+			},
+			{
+				"Name": "Regret_05",
+				"File": "../../motion/表情/Regret/Regret_05.exp3.json"
+			},
+			{
+				"Name": "Regret_06",
+				"File": "../../motion/表情/Regret/Regret_06.exp3.json"
+			},
+			{
+				"Name": "Regret_07",
+				"File": "../../motion/表情/Regret/Regret_07.exp3.json"
+			},
+			{
+				"Name": "Regret_08",
+				"File": "../../motion/表情/Regret/Regret_08.exp3.json"
+			},
+			{
+				"Name": "Regret_09",
+				"File": "../../motion/表情/Regret/Regret_09.exp3.json"
+			},
+			{
+				"Name": "Regret_10",
+				"File": "../../motion/表情/Regret/Regret_10.exp3.json"
+			},
+			{
+				"Name": "Sad_01",
+				"File": "../../motion/表情/Sad/Sad_01.exp3.json"
+			},
+			{
+				"Name": "Sad_02",
+				"File": "../../motion/表情/Sad/Sad_02.exp3.json"
+			},
+			{
+				"Name": "Sad_03",
+				"File": "../../motion/表情/Sad/Sad_03.exp3.json"
+			},
+			{
+				"Name": "Sad_04",
+				"File": "../../motion/表情/Sad/Sad_04.exp3.json"
+			},
+			{
+				"Name": "Sad_05",
+				"File": "../../motion/表情/Sad/Sad_05.exp3.json"
+			},
+			{
+				"Name": "Sad_06",
+				"File": "../../motion/表情/Sad/Sad_06.exp3.json"
+			},
+			{
+				"Name": "Sad_07",
+				"File": "../../motion/表情/Sad/Sad_07.exp3.json"
+			},
+			{
+				"Name": "Sad_08",
+				"File": "../../motion/表情/Sad/Sad_08.exp3.json"
+			},
+			{
+				"Name": "Sad_09",
+				"File": "../../motion/表情/Sad/Sad_09.exp3.json"
+			},
+			{
+				"Name": "Sad_10",
+				"File": "../../motion/表情/Sad/Sad_10.exp3.json"
+			},
+			{
+				"Name": "Joy_01",
+				"File": "../../motion/表情/Joy/Joy_01.exp3.json"
+			},
+			{
+				"Name": "Joy_02",
+				"File": "../../motion/表情/Joy/Joy_02.exp3.json"
+			},
+			{
+				"Name": "Joy_03",
+				"File": "../../motion/表情/Joy/Joy_03.exp3.json"
+			},
+			{
+				"Name": "Joy_04",
+				"File": "../../motion/表情/Joy/Joy_04.exp3.json"
+			},
+			{
+				"Name": "Joy_05",
+				"File": "../../motion/表情/Joy/Joy_05.exp3.json"
+			},
+			{
+				"Name": "Joy_06",
+				"File": "../../motion/表情/Joy/Joy_06.exp3.json"
+			},
+			{
+				"Name": "Joy_07",
+				"File": "../../motion/表情/Joy/Joy_07.exp3.json"
+			},
+			{
+				"Name": "Joy_08",
+				"File": "../../motion/表情/Joy/Joy_08.exp3.json"
+			},
+			{
+				"Name": "Joy_09",
+				"File": "../../motion/表情/Joy/Joy_09.exp3.json"
+			},
+			{
+				"Name": "Joy_10",
+				"File": "../../motion/表情/Joy/Joy_10.exp3.json"
+			},
+			{
+				"Name": "Neutral",
+				"File": "../../motion/表情/Neutral/Neutral.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamEyeOpenL",
+				"ParamEyeOpenR"
+			]
+		}
+	]
+}
