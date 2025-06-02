@@ -182,14 +182,18 @@
 		{
 			"Target": "Parameter",
 			"Name": "EyeBlink",
-			"Ids": []
+			"Ids": [
+				"ParamEyeOpenL",
+				"ParamEyeOpenR"
+			]
 		},
 		{
 			"Target": "Parameter",
 			"Name": "LipSync",
 			"Ids": [
-				"ParamEyeOpenL",
-				"ParamEyeOpenR"
+				"ParamMouthOpen",
+				"ParamMouthForm",
+				"ParamMouthShape"
 			]
 		}
 	]
